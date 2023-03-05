@@ -1,2 +1,2 @@
 # Tugas-Kuliah
-Berisi file beberapa mata kuliah jurusan Informatika
+Contains a number of modul assignments in informatics major
