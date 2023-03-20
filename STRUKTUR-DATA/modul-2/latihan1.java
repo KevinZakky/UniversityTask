@@ -1,4 +1,3 @@
-package modul2.Latihan;
 
 import java.util.ArrayList;
 import java.util.List;
