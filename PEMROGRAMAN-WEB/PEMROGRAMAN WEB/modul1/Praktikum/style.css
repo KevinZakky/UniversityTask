@@ -1,0 +1,97 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero img {
+  background-size: cover;
+}
+
+.btn {
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+.navbar {
+  position: fixed;
+}
+
+.navbar-nav a {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+.hero {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../img/hero.jpg);
+  background-size: cover;
+}
+
+.hero main {
+  margin-top: 20rem;
+  margin-left: 10rem;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  line-height: 1rem;
+}
+
+.hero main h2 {
+  font-size: 3rem;
+}
+
+.hero main p {
+  font-size: 1.5rem;
+}
+
+/* footer */
+footer {
+  width: 100vw;
+  height: 40vh;
+}
+
+.col-logo {
+  margin-top: 6rem;
+}
+
+.col-logo img {
+  margin-top: 4rem;
+  margin-left: 3rem;
+  margin-bottom: 4rem;
+}
+
+.col-logo p {
+  color: #a9a9a9;
+}
+
+.col-lg-3 {
+  margin-top: 5rem;
+}
+
+.col-lg-3 ul {
+  list-style: none;
+}
+
+.col-lg-3 ul li {
+  margin-bottom: 15px;
+}
+
+.col-lg-3 ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.col-lg-3 h2 {
+  color: #a9a9a9;
+  margin-left: 2rem;
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+.col-lg-3 ul li img {
+  width: 1rem;
+  margin-right: 0.5rem;
+}
