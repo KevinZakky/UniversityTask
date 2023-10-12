@@ -1,0 +1,39 @@
+body {
+  background: #3498db;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: #fff;
+}
+
+.login {
+  padding: 16px;
+  margin: 32px auto;
+  width: 272px;
+  background: #fff;
+  border-radius: 3px;
+}
+
+label {
+  font-size: 10px;
+  color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 8px;
+  width: 95%;
+  background: #efefef;
+  border: none;
+  font-size: 10px;
+  margin: 6px 0px;
+}
+
+.btn-daftar {
+  background: #3498db;
+  color: #fff;
+  border: none;
+  padding: 5px 8px;
+}
